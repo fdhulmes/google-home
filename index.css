@@ -1,5 +1,8 @@
 .logo img {
-  position: static;
-  top: 200px;
-  left: 500px;
+  display: block;
+  margin: auto;
+}
+
+.searchbar {
+  margin: auto;
 }
