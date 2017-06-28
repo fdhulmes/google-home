@@ -1,8 +1,9 @@
 .logo {
-  height: 233px;
-  margin-top: 89px;
+  height: 150px;
+  margin-top: 230px;
+  margin-left: 750px;
 }
 
-.searchbar {
-  margin: auto;
+.box {
+  margin-left: 760px;
 }
