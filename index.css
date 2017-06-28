@@ -5,5 +5,16 @@
 }
 
 .box {
-  margin-left: 760px;
+  margin-left: 546px;
+}
+.container {
+  width: 700px;
+}
+input#search {
+  width: 700px;
+  height: 30px;
+  background: white;
+  border: solid;
+  border-width: 1px;
+  border-color: gray;
 }
