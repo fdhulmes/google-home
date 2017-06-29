@@ -12,7 +12,14 @@
 }
 li {
   display: inline;
-
+}
+.nav {
+  font-size: 14px;
+  float: right;
+  padding: 5px;
+  margin-top: auto;
+  display: inline-block;
+  color: black;
 }
 input#Search {
   width: 700px;
@@ -21,4 +28,41 @@ input#Search {
   border: solid;
   border-width: 1px;
   border-color: gray;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+a:hover{
+  color: black;
+  text-decoration: underline;
+}
+
+.footer{
+  position: fixed;
+  bottom: 0px;
+  left:0px;
+  height: 30px;
+  width: 100%;
+  background-color: gray;
+  border-top: 1px solid black;
+
+}
+
+.left {
+  font-size: 14px;
+  float: left;
+  padding: 5px;
+  margin-top: auto;
+  display: inline-block;
+  color: black;
+}
+.right {
+  font-size: 14px;
+  float: right;
+  padding: 5px;
+  margin-top: auto;
+  display: inline-block;
+  color: black;
 }
